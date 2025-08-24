@@ -125,8 +125,6 @@ Error % = 3.254757748669402
 ---
 
 ## Repository Structure
-
-## Repository Structure
 ```
 .
 ├── UF.hs # Utility functions
@@ -134,3 +132,4 @@ Error % = 3.254757748669402
 ├── NM.hs # Numerical methods
 └── README.md # This report
 ```
+
