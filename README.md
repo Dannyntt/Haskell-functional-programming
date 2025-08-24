@@ -32,7 +32,7 @@ ghci> remData my_list 10 20
 [14.0,11.0,17.0]
 ghci> orderDesc my_list
 [28.0,21.0,17.0,14.0,11.0,9.0,3.0]
-
+```
 ## 2. DSPT – Discrete Signal Processing Transform
 
 **File:** `DSPT.hs`  
@@ -57,7 +57,7 @@ Manual implementations were written to replace restricted functions:
 ghci> :load DSPT.hs
 ghci> dct [1,2,3,4]
 [5.000000000000001,-2.230442497387663,0.0,-0.15851266778110717]
-
+```
 ## 3. NM – Numerical Methods
 
 **File:** `NM.hs`  
@@ -98,6 +98,8 @@ Approximation of ln(1+1.5) with N=6
 Approx = 0.8864583333333334
 Real   = 0.9162907318741551
 Error % = 3.254757748669402
+```
+
 ## 4. Troubles and Solutions
 
 - **Restricted functions**  
@@ -129,3 +131,4 @@ Error % = 3.254757748669402
 ├── DSPT.hs    # Discrete Signal Processing Transform
 ├── NM.hs      # Numerical methods
 └── README.md  # This report
+
