@@ -126,9 +126,11 @@ Error % = 3.254757748669402
 
 ## Repository Structure
 
+## Repository Structure
+```
 .
-├── UF.hs      # Utility functions
-├── DSPT.hs    # Discrete Signal Processing Transform
-├── NM.hs      # Numerical methods
-└── README.md  # This report
-
+├── UF.hs # Utility functions
+├── DSPT.hs # Discrete Signal Processing Transform
+├── NM.hs # Numerical methods
+└── README.md # This report
+```
